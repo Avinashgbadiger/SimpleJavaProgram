@@ -8,3 +8,6 @@ vibrant
 Dark Mode
 Video Calling
 
+Payment option 
+send money 
+Recive money
